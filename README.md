@@ -28,3 +28,9 @@
 外壳采用铝型材外壳82*27-79-100mm 100mm长度的那款,前后面板的Gerber文件已经放到[hardwave](./)中
 
 [购买地址](https://item.taobao.com/item.htm?_u=12ce6ade70dc&id=527187308231&spm=a1z09.2.0.0.51a82e8dtK0O1C)
+
+## 请我喝咖啡
+如果该项目对你有所帮助可以请我喝杯咖啡
+
+
+<img src="./docs/赞赏码.jpg" width="400px">
